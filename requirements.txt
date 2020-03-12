@@ -254,7 +254,7 @@ ppca==0.0.3
 progressbar==2.5
 prompt-toolkit==1.0.15
 protobuf==3.6.1
-psutil==5.4.5
+psutil==5.6.6
 py==1.5.3
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
