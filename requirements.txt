@@ -143,7 +143,7 @@ et-xmlfile==1.0.1
 fastcache==1.0.2
 filelock==3.0.4
 Flask==1.0.2
-Flask-Cors==3.0.4
+Flask-Cors==3.0.9
 flask-marshmallow==0.9.0
 Flask-RESTful==0.3.6
 Flask-SQLAlchemy==2.3.2
