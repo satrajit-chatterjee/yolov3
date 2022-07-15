@@ -134,7 +134,7 @@ datashape==0.5.4
 decorator==4.3.0
 deepdish==0.3.6
 dill==0.2.7.1
-distributed==1.21.8
+distributed==2021.10.0
 Django==2.1.1
 dlib==19.16.0
 docutils==0.14
